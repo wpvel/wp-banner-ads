@@ -1,0 +1,21 @@
+{
+    "name": "wpvel/wp-banner-ads",
+    "type": "wordpress-plugin",
+    "description": "WordPress Banner Ads Plugin",
+    "license": "GPL-2.0-or-later",
+    "homepage": "https://wpvel.com/",
+    "keywords": [
+        "wp banner ads","wordpress","wp"
+    ],
+    "support": {
+        "issues": "https://github.com/WordPress/gutenberg/issues"
+    },
+    "authors": [
+        {
+            "name": "WPVel",
+            "email": "support@wpvel.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

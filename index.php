@@ -1,0 +1,2 @@
+<?php
+// WP Banner Ads.
